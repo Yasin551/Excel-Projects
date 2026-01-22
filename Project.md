@@ -7,7 +7,9 @@ With the power of data visualization, I've translated raw numbers into actionabl
 ## Dataset Used
 - <a href="https://github.com/Yasin551/Uber-Data-Analysis/blob/main/Uber%20Ride%20Analysis%20Dashboard%202024%20(1).xlsx">Dataset View</a>
 Dashboard
--<a href=>https://github.com/Yasin551/Uber-Data-Analysis/blob/main/uber%20ride%20analytics%20dashboard%201.png>Dashboard View</a>
+-<a href=>"https://github.com/Yasin551/Uber-Data-Analysis/blob/main/uber%20ride%20analytics%20dashboard%201.png">Dashboard View</a>
+
+
 Key Highlights:
 Tool Used: Microsoft Excel
 Topics Covered: Data Analysis, Uber, Ride AnLYTICS, Insights, Analytics, Dashboard, Data Visualization, Data-Driven Decision Making.Interested in leveraging data to drive your business forward? Let's connect and explore opportunities to collaborate! 🚀
